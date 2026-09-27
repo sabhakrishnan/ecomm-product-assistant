@@ -14,5 +14,7 @@ Activate the venv:
     - git bash or MAC terminal: source ./<your-env-name>/scripts/Activate
 
 Install the Packages in the requirements.txt
-Why the UV is faster - its written under a RUST language
+    Why the UV is faster - its written under a RUST language
     - uv pip install -r requirements.txt
+
+
